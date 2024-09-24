@@ -85,6 +85,10 @@ li {
   color: var(--red);
 }
 
+.header-nav__link_active{
+    font-weight: 700;
+}
+
 .header-button path {
   transition: all 0.2s ease;
 }
